@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 3 Favorite Meals
 1 Calabazas
 2 Zanahoria
 3 Champiñones
+=======
+3 Favorite Movies
+1 The Shadow
+2 Ironman
+3 Spiderman
+>>>>>>> movies
